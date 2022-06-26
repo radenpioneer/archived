@@ -1,4 +1,5 @@
-# [@radenpioneer's](https://github.com/radenpioneer/) archived projects
-Archived past projects no longer maintained, but kept as documentation to my past works. 
+# Archive
 
-If you are an employer, this repository is presented for you.
+Archived past projects no longer maintained.
+
+We'll update this list once projects merged here.
