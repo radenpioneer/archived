@@ -1,5 +1,19 @@
-# Archive
+# Arsip Karya SNGR Studio
 
-Archived past projects no longer maintained.
+Arsip karya lama yang sudah tidak diaktifkan kembali. Ditampilkan sebagai dokumentasi.
 
-We'll update this list once projects merged here.
+*Archived past projects no longer maintained, for documenting purpose.*
+
+| [Surau Ka'bah Madani Lamandau][kotimbercahaya] |
+| --- |
+| ![Surau Ka'bah Madani Lamandau][imgkotimbercahaya] |
+| [README][readmekotimbercahaya] |
+
+<!--links-->
+[kotimbercahaya]: https://kotimbercahaya4.netlify.app/
+
+<!--images-->
+[imgkotimbercahaya]: https://api.sngr.studio/image/393w/851h/https%3A%2F%2Fkotimbercahaya4.netlify.app
+
+<!--readme-->
+[readmekotimbercahaya]: /kotimbercahaya/README.md
