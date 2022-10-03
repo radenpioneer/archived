@@ -16,4 +16,4 @@ Arsip karya lama yang sudah tidak diaktifkan kembali. Ditampilkan sebagai dokume
 [imgkotimbercahaya]: https://api.sngr.studio/image/393w/851h/https%3A%2F%2Fkotimbercahaya4.netlify.app
 
 <!--readme-->
-[readmekotimbercahaya]: /kotimbercahaya/README.md
+[readmekotimbercahaya]: https://github.com/sngrstudio/kotimbercahaya
