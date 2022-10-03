@@ -4,9 +4,9 @@ Arsip karya lama yang sudah tidak diaktifkan kembali. Ditampilkan sebagai dokume
 
 *Archived past projects no longer maintained, for documenting purpose.*
 
-| [Surau Ka'bah Madani Lamandau][kotimbercahaya] |
+| [Kotim Bercahaya][kotimbercahaya] |
 | --- |
-| ![Surau Ka'bah Madani Lamandau][imgkotimbercahaya] |
+| ![Kotim Bercahaya][imgkotimbercahaya] |
 | [README][readmekotimbercahaya] |
 
 <!--links-->
